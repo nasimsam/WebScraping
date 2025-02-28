@@ -1,6 +1,6 @@
 **Extracting and Visualizing Stock Data**
 <br>
-First I used yfinance to extract stock data for Tesla then I used Web scraping to extract Tesla Revenue Data, finally I plotted the Tesla Stock graph to compare stock data with revenue data. I have followed exat same process for GameStop stock data, stock symbol GME, and GameStop Revenue Data and finally, plotted the GameStop graphs.
+First I used Yahoo finance to extract stock data for Tesla and GameStop then I used Web scraping to extract their Revenue Data, finally I compare the stock data with revenue data by ploting graphs.
 <br>
 **URL used for Web Scraping:**
 <br>
